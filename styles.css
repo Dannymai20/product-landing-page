@@ -139,6 +139,7 @@ nav > ul {
   height: 400px;
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
+  filter: brightness(75%);
 }
 
 h2 {
