@@ -1,0 +1,30 @@
+/**Global element styling**/
+
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E3DBDB;
+  font-family: 'Lato', sans-serif;
+}
+
+li {
+    list-style: none;
+  }
+  
+  a {
+    color: #278927;
+    text-decoration: none;
+    font-weight:bold;
+  }
+
+  #page-wrapper {
+    position: relative;
+  }
+
+  
