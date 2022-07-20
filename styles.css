@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #fefcfd;
   font-family: 'Roboto', 'arial';
@@ -172,7 +176,7 @@ h2 {
 #gallery h2 {
   text-align: center;
   margin-bottom: 30px;
-  color: #050c03
+  color: #050c03;
 }
 
 #gallery ul {
@@ -187,4 +191,5 @@ h2 {
   width: 300px;
   border: solid 3px #050c03;
   filter: brightness(90%);
+  border-radius: 20px;
 }
