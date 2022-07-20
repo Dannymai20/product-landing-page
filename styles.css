@@ -162,3 +162,29 @@ h2 {
   font-weight: bold;
   
 }
+
+/* Gallery */
+
+#gallery {
+  margin-top: 30px;
+}
+
+#gallery h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #050c03
+}
+
+#gallery ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  justify-content: center;
+}
+
+.gallery-img {
+  height: 300px;
+  width: 300px;
+  border: solid 3px #050c03;
+  filter: brightness(90%);
+}
