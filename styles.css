@@ -214,9 +214,9 @@ h2 {
 }
 
 #sign-up {
-    padding: 10px 80px;
+    padding: 30px;
     display: flex;
-    margin: 50px 500px;
+    margin: 30px 250px;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
@@ -224,6 +224,8 @@ h2 {
     background-color:  #212518;
     gap: 20px;
 }
+
+
 
 #sign-up-desc {
   text-align: left;
@@ -268,7 +270,7 @@ h2 {
 }
 
 footer {
-  background-color: green;
+  background-color: #bd8b6f;
   text-align: center;
   padding: 20px;
   font-weight: bold;
